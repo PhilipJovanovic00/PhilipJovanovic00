@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Philip Jovanovic
-- 👀 I’m interested in PHP, JavaScript, SQL, C++ and Java
+- 👀 I’m interested in PHP, JavaScript, C++ and Java
 - 💻 I’m currently learning PHP, Drupal, Javascript
 
 <!---
